@@ -3,7 +3,7 @@
 pySniff - Advanced Network Packet Sniffer
 Author: Ahmad
 License: MIT
-GitHub: https://github.com/yourusername/pysniff
+GitHub: https://github.com/Ahmiiii250/CodeAlpha_Basic-Network-Sniffer.git
 """
 
 import argparse
